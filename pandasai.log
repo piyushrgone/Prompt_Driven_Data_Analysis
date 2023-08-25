@@ -1,0 +1,28 @@
+2023-08-25 13:17:59 [INFO] Question: Who was more likely to survive, males or females? And what is the likelihood? 
+
+2023-08-25 13:17:59 [INFO] Running PandasAI with openai LLM...
+2023-08-25 13:17:59 [INFO] Prompt ID: d20d8d9c-6ffb-498f-9f89-464ab82bb84b
+2023-08-25 13:18:00 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-25 13:53:18 [INFO] Question: Who was more likely to survive, males or females? 
+
+2023-08-25 13:53:18 [INFO] Running PandasAI with openai LLM...
+2023-08-25 13:53:18 [INFO] Prompt ID: ad9691fd-29f7-44f8-ade9-5a2f600e0d05
+2023-08-25 13:53:19 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-25 13:54:18 [INFO] Question: Who was more likely to survive, males or females? 
+
+2023-08-25 13:54:18 [INFO] Running PandasAI with openai LLM...
+2023-08-25 13:54:18 [INFO] Prompt ID: ca68d40a-99f1-4a74-b578-0865afaf279b
+2023-08-25 13:54:19 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-25 14:01:53 [INFO] Question: who is more likely to survive male or female? 
+2023-08-25 14:01:53 [INFO] Running PandasAI with openai LLM...
+2023-08-25 14:01:53 [INFO] Prompt ID: f3a4a1f1-b886-4804-8ee4-b07d9eb70ffe
+2023-08-25 14:01:54 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-25 18:21:34 [INFO] Question: Who is more likely to survive male or female? 
+2023-08-25 18:21:34 [INFO] Running PandasAI with openai LLM...
+2023-08-25 18:21:34 [INFO] Prompt ID: 7bafccda-d8c2-4eda-a056-15725c4219e3
+2023-08-25 18:21:38 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-25 19:17:07 [INFO] Question: Find the average of Fare
+
+2023-08-25 19:17:07 [INFO] Running PandasAI with openai LLM...
+2023-08-25 19:17:07 [INFO] Prompt ID: 2c2c0f85-0cbc-4928-8511-dd99f8f4fb66
+2023-08-25 19:17:08 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
