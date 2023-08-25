@@ -8,10 +8,13 @@ import streamlit as st
 from pandasai import PandasAI
 from pandasai.llm.openai import OpenAI
 
+import warnings
+warnings.filterwarnings('ignore')
+
 # Page configuration
 st.set_page_config(
     page_title="CSV Data Visualization App",
-    page_icon="📊",
+    page_icon=":bar_chart:",
     layout="wide"
 )
 
