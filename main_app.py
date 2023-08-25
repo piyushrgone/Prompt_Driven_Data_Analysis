@@ -69,15 +69,15 @@ if uploaded_file is not None:
         st.pyplot(plt)
 
     elif visualization_type == "Pair Plot":
-        sns.pairplot(df[selected_column])
+        sns.pairplot(df)
         st.pyplot(plt)
 
     elif visualization_type == "Pair Plot with Linear Regression":
-        sns.pairplot(df[selected_column], kind="reg")
+        sns.pairplot(df, kind="reg")
         st.pyplot(plt)
 
     elif visualization_type == "Correlation Heatmap":
-        corr_matrix = df[selected_column].corr()
+        corr_matrix = df.corr()
         sns.heatmap(corr_matrix, annot=True, cmap="coolwarm")
         st.pyplot(plt)
 
