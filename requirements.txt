@@ -4,3 +4,4 @@ matplotlib==3.4.3
 seaborn==0.11.2
 python-dotenv==0.19.1
 pandasai
+openai
